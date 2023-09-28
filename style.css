@@ -1,0 +1,42 @@
+.body{
+
+  margin: 0 ;
+  padding: 0;
+  overflow-x: hidden;
+}
+.esport{
+  background-image: url("esport.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navigbar{
+  background-color: black;
+  color: blueviolet;
+  height: 15%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 2vw;
+  padding-right: 2vw;
+}
+.menu {
+  margin: 5px ;
+
+}
+.punchline{
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.punch{
+  font-size: 70px;
+  color: black;
+  background-color: rgba(138, 43, 226, 0.44);
+}
+.duBas{
+  margin-top: 10px;
+}
